@@ -1,1 +1,1 @@
-worker: py Path.py
+worker: python Path.py
